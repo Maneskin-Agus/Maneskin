@@ -1,0 +1,28 @@
+body {background-color: black}
+
+#barra{background-color:#8e3036;
+color: black;}
+
+
+html{
+   scroll-behavior: smooth;
+}
+
+*{color:#8e3036;}
+
+ button
+ {padding: 2px;
+    color: white;
+     background-color:#8e3036;
+   }
+
+  
+
+nav{background-color: #8e3036;
+color: white;
+
+}
+
+a{text-decoration: none;
+color:#8e3036;}
+
